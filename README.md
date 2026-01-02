@@ -18,14 +18,6 @@
   </p>
 </div>
 
-## 📋 Table of Contents
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
 
 
 
@@ -79,19 +71,6 @@ And many more, including enhanced security and optimized performance!
 
 Follow these steps to run the project locally.
 
-### Prerequisites
-
-Make sure you have the following installed:
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/)
-
-### Clone the Repo
-
-```bash
-git clone https://github.com/rr3s1/cocktails-gsap.git
-cd cocktails-gsap
-```
 
 ### Install Dependencies
 
@@ -103,40 +82,10 @@ npm install
 
 ```bash
 npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
-
-## 🔗 Assets
-
-All assets and snippets are included in the **[Video Kit](https://jsm.dev/cocktail-kit)**:
-
-[![Download Video Kit](public/readme/videokit.png)](https://jsm.dev/cocktail-kit)
 
 
----
 
-## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on  YouTube channel, [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos).
 
-If you prefer visual learning, this is the perfect resource for you. Follow the tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-[![Watch the video](https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d)](https://www.youtube.com/watch?v=AW1yfBKRMKc)
-
----
-
----
-
-## 🚀 More
-
-### Advance Your Skills with JavaScript Mastery Next.js Pro Course
-
-Enjoyed building this project? Take your skills further with JSM's **PRO courses**, packed with detailed explanations, advanced features, and hands-on exercises.
-
-<a href="https://jsm.dev/cocktail-nextjs" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Next.js Pro Course Banner">
-</a>
 
